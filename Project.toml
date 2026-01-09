@@ -1,0 +1,10 @@
+name = "DEMOSJsonReader"
+uuid = "4c03eb46-4c89-41e3-a626-932bf0283c09"
+authors = ["Anton Reinhard <a.reinhard@hzdr.de>"]
+version = "0.1.0"
+
+[workspace]
+projects = ["test", "docs"]
+
+[compat]
+julia = "1.10"
